@@ -1,0 +1,20 @@
+GIT HUB COMMAND TO ADD A FILE 
+
+1) Create Repository in Git hub
+2) Open -> Git Bash
+3) ls -> to see what are all the file available under the current directory
+4) if the file name given in the repository is not in the list
+5) then create a directory in Git Bash using -> mkdir filename
+6) ( cd filename ) -> to go inside the current folder.
+7) git init ->  intialize a git repository
+8) get a copy of git repository url form git hub. 
+9) git remote add origin url -> to clone the git repository to local repository.
+10) git pull -> to get the updated files from git to local
+11) git checkout main -> changing branch
+12) git branch -M main -> changin branch
+13) copy and paste your files into current local repository.
+14) ls -> to see the list of files
+15) git add . -> to add all files to the git
+16) git commit -m'message' -> commmit makes no changing after that.
+17) git git push -> push the files from local repository to git hub repository.
+18) check out the file in git hub repository. 
